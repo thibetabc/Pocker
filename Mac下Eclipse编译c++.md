@@ -79,6 +79,10 @@ command = '%s/cocos compile -p android -s %s -m %s' % (COCOS_CONSOLE_ROOT,app_an
 
 就能运行编译！
 
+#在Eclipse打开Classes里的c++文件(参考链接4)
+
+选中工程Pocker，右键-New-Folder，Enter or select the parent folder选择Poker, FolderName自己起一个名字（这里我填了Classes）。
+点 advanced，选择最后一个选项：Link to alternate location(Linked Folder)，在下面输入要导进来的cpp所在的目录（这里我填了 /Users/qqronaldz/Desktop/project/code/Poker/Classes），点 finish即可
 
 
 
@@ -89,16 +93,13 @@ command = '%s/cocos compile -p android -s %s -m %s' % (COCOS_CONSOLE_ROOT,app_an
 
 
 
-
-
-
-=============================================================以下为参考资料==================================================================
+=================以下为参考资料==================================================================
 
 参考链接：
 链接1: http://www.cocos.com/doc/article/index?type=cocos2d-x&url=/doc/cocos-docs-master/manual/framework/html5/jsb/compilation-in-eclipse/zh.md
 链接2: http://my.oschina.net/u/2274890/blog/493574
 链接3: http://www.cocoachina.com/bbs/read.php?tid-296022-page-3.html
-
+链接4: http://www.cnblogs.com/zouzf/p/4202537.html
 在Eclipse中编译安卓项目
 
 这篇文档会展示如何在eclipse中编译一个cocos2d-js的android项目。
