@@ -1,5 +1,8 @@
 
+youtube视频：
 https://www.youtube.com/watch?v=VLeGy1foMQA
+或者看中文web：
+http://www.webtag123.com/android/39800.html
 
 要注意的是视频里的AndroidStduio是2.0以前的版本，
 而我目前使用的是AndroidStudio2.0，该版本已经没有Import Non-Android Studio project选项，
