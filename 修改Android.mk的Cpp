@@ -1,3 +1,7 @@
+
+http://www.cnblogs.com/leestar54/p/3567751.html
+
+
 3、我们先修改项目jni中的Android.mk
 在最后边加上红色的2句，并且在$(call import-module,cocos2dx)之前：
 $(call import-add-path, E:/android/cocos2d-x-2.2.2)
