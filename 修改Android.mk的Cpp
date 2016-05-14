@@ -1,0 +1,20 @@
+3、我们先修改项目jni中的Android.mk
+在最后边加上红色的2句，并且在$(call import-module,cocos2dx)之前：
+$(call import-add-path, E:/android/cocos2d-x-2.2.2)
+$(call import-add-path, E:/android/cocos2d-x-2.2.2/cocos2dx/platform/third_party/android/prebuilt)
+$(call import-module,cocos2dx)
+
+PS：文件夹路径要填写自己cocos2dx的路径，
+
+LOCAL_SRC_FILES := hellocpp/main.cpp \
+../../Classes/AppDelegate.cpp \
+../../Classes/HelloWorldScene.cpp
+
+改为
+
+FILE_LIST := hellocpp/main.cpp
+FILE_LIST += $(wildcard $(LOCAL_PATH)/../../Classes/*.cpp)
+LOCAL_SRC_FILES := hellocpp/main.cpp
+LOCAL_SRC_FILES := $(FILE_LIST:$(LOCAL_PATH)/%=%)
+
+这样可以免去手动输入引用CPP的麻烦。
