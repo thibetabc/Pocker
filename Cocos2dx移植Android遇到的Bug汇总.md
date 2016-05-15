@@ -1,3 +1,21 @@
+#程序包org.cocos2dx.lib不存在
+
+解决办法：
+在src下的project.properties文件中添加如下依赖项：
+android.library.reference.1=../cocos2d/cocos/platform/android/java
+
+
+#android拍照后，使用图片黑块。
+解决办法：
+//android照相返回-要在主线程操作
+    Director::getInstance()->getScheduler()->performFunctionInCocosThread([&]()
+    {
+        //更新UI
+       // update_chat_layer();
+    });
+    
+
+
 
 **遇到问题
 > Pocker的ios第一个版本迭代后，进行Android版本的移植，遇到如下Bug：
