@@ -1,0 +1,5 @@
+
+        //获取其他层节点坐标
+        auto pos = dynamic_cast<Button*>(ref)->convertToWorldSpace(Vec2::ZERO);//转世界坐标
+        //在层中使用
+        mListviewAll->moveChildren(0, MANAGER_SETTING_HEIGHT - pos.y);
