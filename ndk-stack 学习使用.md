@@ -30,3 +30,76 @@ Stack frame #02  pc 00017003  /system/lib/libc.so (free+10)
 Stack frame #03  pc 004965e8  /data/data/com.cocos2dx.test/lib/libgame.so (cocos2d::CCImage::~CCImage()+88): Routine __static_initialization_and_destruction_0 in /Users/name/Sango_Android/test/libs/cocos2dx/platform/android/CCApplication.cpp:127
 Stack frame #04  pc 0049664c  /data/data/com.cocos2dx.teset/lib/libgame.so (cocos2d::CCImage::~CCImage()+20): Routine CCLog in /Users/name/test/libs/cocos2dx/platform/android/CCCommon.cpp:36
 重要的就是 cpp 行号。为我们定位崩溃地点很有作用，再结合程序的打印输出位置，就能很快定位问题了。
+
+
+
+
+
+--------------------------------
+
+//chmod改读写 777 ./make.sh    sudo权限 ./make.sh man查询
+小芮 0929
+晓宁198909
+
+FoxEmail
+jianfeng.huang@chinarichinc.com
+Fuck011185
+
+微信支付
+ios@uquku.com  zykj2016
+微信开放分享平台
+ios@uquku.com  Ls2016
+最新
+pingtai@chinarichinc.com 
+Ls2016
+
+
+友盟
+462290491@qq.com  ZYKJ2016 错的
+
+google play
+https://play.google.com/apps/publish/?dev_acc=00898879876467471031#AppListPlace
+lizhishun910724@gmail.com
+Zykj1234
+
+
+
+
+
+针对AndroidStudio进行编译
+终端 cd 到项目的 proj.android 打开如下命令： 
+cocos compile -p android --android-studio
+
+xcode打包apk
+终端 cd 到项目的 proj.android 打开如下命令： 
+cocos run -p android -m release
+编译android项目
+cocos compile -p android
+
+
+
+
+第三方渠道：
+去掉微信支付的sdk，，分两个android包，，编译时区分代码注释
+
+
+
+
+美团Android自动化之旅—生成渠道包
+http://tech.meituan.com/mt-apk-packaging.html
+美团Android自动化之旅—适配渠道包
+http://tech.meituan.com/mt-apk-adaptation.html
+
+
+
+##BUG堆栈 ndk-stack：
+1）终端cd到adb路径：
+    /Users/qqronaldz/Documents/eclipse/sdk/platform-tools
+
+2）./adb logcat | 你android ndk-stack所在的路径/ndk-stack -sym /你安卓工程.so文件所在的目录：
+   ./adb logcat | /Users/qqronaldz/Documents/eclipse/android-ndk-r9d/ndk-stack -sym /Users/qqronaldz/Desktop/project/code/pokerclient/proj.android/obj/local/armeabi-v7a
+./adb logcat | /Users/qqronaldz/Documents/eclipse/android-ndk-r9d/ndk-stack -sym /Users/qqronaldz/Desktop/project/code/ReleaseClient/proj.android/obj/local/armeabi-v7a
+
+
+
+
