@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LayerFriendList::init():LayerFriendList.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "friends_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "newOfcPokerRoomFantasy::onTouchEnded(cocos2d::Touch*, cocos2d::Event*):newOfcPokerRoomFantasy.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "selSprite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PokerDataManager::get_seat_num():PokerDataManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "GameDataManager::register_events():GameDataManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "PokerRoomLayer::clear(float):PokerRoomLayer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoomFantasy::refresh_hand_cards():OfcPokerRoomFantasy.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "fantasyHandGrooves_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameDataManager::send_add_friend(unsigned int const&amp;):GameDataManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "OFCPlayerActionNode::click_standup_ofc(cocos2d::Ref*):OfcPlayerActionNode.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "seat_id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "net_data_recv_package::parse(Buffer&amp;):net_data_recv.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PokerDataManager::handle_receive_ofc_prop_update(std::__1::shared_ptr&lt;cmd_data&gt;):PokerDataManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "FriendCell::update_property(std::__1::shared_ptr&lt;friend_data&gt; const&amp;):FriendCell.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "net_manager::send_data(net_data_send_package&amp;):net_manager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_request_type">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AuditFriendCell::update_ui():AuditFriendCell.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "invaitation_data_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoom::init_auto_buttons():OfcPokerRoom.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "NodeOfcPlayer::schedule_player_func(float):NodeOfcPlayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "operator_time_">
+            </PersistentString>
+            <PersistentString
+               value = "root_">
+            </PersistentString>
+            <PersistentString
+               value = "progress_player_">
+            </PersistentString>
+            <PersistentString
+               value = "user_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LayerFriendSearch::tableCellAtIndex(cocos2d::extension::TableView*, long):LayerFriendSearch.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "FriendCell::update_ui():FriendCell.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PokerDataManager::handle_receive_send_player_set_info(std::__1::shared_ptr&lt;cmd_data&gt;):PokerDataManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "UserPropertyLayer::update_data(std::__1::shared_ptr&lt;cmd_data&gt;):UserPropertyLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "select_game_index_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatMemberCell::update_ui(std::__1::shared_ptr&lt;friend_data&gt; const&amp;):ChatMemberCell.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "friend_data_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GroupLayerChat::update_data(std::__1::shared_ptr&lt;cmd_data&gt;):GroupLayerChat.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "GroupLayerChat::init():GroupLayerChat.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "btn_keyboard_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LayerChat::init():LayerChat.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "__glc__">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PokerDataManager::handle_receive_ofcgame_info(std::__1::shared_ptr&lt;cmd_data&gt;):PokerDataManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "GameDataManager::get_vec_groups(unsigned char):GameDataManager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "groups_">
+            </PersistentString>
+            <PersistentString
+               value = "my_groups_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoom::handle_receive_player_seat_info(std::__1::shared_ptr&lt;cmd_data&gt;):OfcPokerRoom.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameDataManager::get_user_id():GameDataManager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "user_data_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NodeOfcPlayer::update_propupdate():NodeOfcPlayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "user_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "net_manager::recv_error(unsigned int, int):net_manager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PokerDataManager::play_record():PokerDataManager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "steps_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "net_data_recv_header::parse(Buffer&amp;):net_data_recv.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "GameDataManager::handle_search_group(std::__1::shared_ptr&lt;cmd_data&gt;):GameDataManager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "my_groups_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameDataManager::handle_req_deal_request(std::__1::shared_ptr&lt;cmd_data&gt;):GameDataManager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "invaitation_friends_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "user_ofc::putcard(unsigned int, unsigned int):user_data.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "last_row_cards_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "net_manager::recv_data(unsigned int, char*, unsigned long):net_manager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "GameDataManager::handle_receive_request_list(std::__1::shared_ptr&lt;cmd_data&gt;):GameDataManager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "invaitations_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatMessageCell::click_sprite_icon(cocos2d::Ref*):ChatMessageCell.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "is_not_touch_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PokerDataManager::handle_receive_game_player_seat_info(std::__1::shared_ptr&lt;cmd_data&gt;):PokerDataManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PokerDataManager::handle_poker_get_hand_history(std::__1::shared_ptr&lt;cmd_data&gt;):PokerDataManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "NodeOfcPlayerOwn::update_player_cards():NodeOfcPlayerOwn.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "user_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReportBack::click_report(cocos2d::Ref*):ReportBack.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "descrip_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecordLayer::click_btn_close_new():RecordLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "root_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LayerAddressBook::init():LayerAddressBook.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoom::show_all_player():OfcPokerRoom.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "roomID">
+            </PersistentString>
+            <PersistentString
+               value = "_sitDownButtons">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GroupLayer::update_table_view(std::__1::shared_ptr&lt;cmd_data&gt;):GroupLayer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "NodeOfcPlayerOwn::update_hand_cards():NodeOfcPlayerOwn.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "cards">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoom::onTouchEnded(cocos2d::Touch*, cocos2d::Event*):OfcPokerRoom.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "selSprite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LayerFriendDetails::update_data(std::__1::shared_ptr&lt;cmd_data&gt;):LayerFriendDetails.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "text_nickname_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RoomPropertyCell::get_property_name():RoomPropertyCell.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "property_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LayerEditName::click_image_male(cocos2d::Ref*):LayerEditName.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "tf_name_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PokerDataManager::handle_player_set_info(std::__1::shared_ptr&lt;cmd_data&gt;):PokerDataManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "OfcPlayerInfoNode::update_data(std::__1::shared_ptr&lt;user_base&gt; const&amp;):OfcPokerRoom.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "groove_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoomFantasy::handle_event_update_player_position(std::__1::shared_ptr&lt;cmd_data&gt;):OfcPokerRoomFantasy.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "fantasyPlayerGrooves_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
