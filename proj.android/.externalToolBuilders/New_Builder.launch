@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramBuilderLaunchConfigurationType">
+<stringAttribute key="org.eclipse.debug.core.ATTR_REFRESH_SCOPE" value="${workspace}"/>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="ANDROID_NDK_ROOT" value="/Users/qqronaldz/Documents/eclipse/android-ndk-r9d/"/>
+<mapEntry key="ANDROID_SDK_ROOT" value="/Users/qqronaldz/Documents/eclipse/sdk/"/>
+<mapEntry key="ANT_ROOT" value="/Applications/Cocos/tools/ant/bin"/>
+<mapEntry key="COCOS_CONSOLE_ROOT" value="/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/tools/cocos2d-console/bin"/>
+<mapEntry key="COCOS_FRAMEWORKS" value="/Applications/Cocos/frameworks"/>
+<mapEntry key="NDK_ROOT" value="/Users/qqronaldz/Documents/eclipse/android-ndk-r10e/"/>
+<mapEntry key="PATH" value="/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/tools/cocos2d-console/bin"/>
+</mapAttribute>
+<booleanAttribute key="org.eclipse.debug.ui.ATTR_LAUNCH_IN_BACKGROUND" value="false"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="${workspace_loc:/pokerclient/build_native.py}"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_RUN_BUILD_KINDS" value="full,incremental,"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="-b debug"/>
+<booleanAttribute key="org.eclipse.ui.externaltools.ATTR_TRIGGERS_CONFIGURED" value="true"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="${workspace_loc:/pokerclient}"/>
+</launchConfiguration>

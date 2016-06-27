@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "OfcPokerRoomFantasy::Init_OfcPokerRoomFantasyInterface():OfcPokerRoomFantasy.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "user">
+            </PersistentString>
+            <PersistentString
+               value = "fantasyPlayerGrooves_.user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoom::onTouchEnded(cocos2d::Touch*, cocos2d::Event*):OfcPokerRoom.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "selSprite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoomFantasy::timer_player_start():OfcPokerRoomFantasy.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "fantasyPlayerGrooves_.user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "user_base::get_id():user_data.h">
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoom::handle_receive_player_seat_info(std::__1::shared_ptr&lt;cmd_data&gt;):OfcPokerRoom.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PokerRoomLayer::update_user_property(std::__1::shared_ptr&lt;user_texas&gt; const&amp;):PokerRoomLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoomFantasy::schedule_player_func(float):OfcPokerRoomFantasy.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "fantasyPlayerGrooves_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OfcPokerRoom::onTouchMoved(cocos2d::Touch*, cocos2d::Event*):OfcPokerRoom.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "selSprite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
