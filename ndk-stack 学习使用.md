@@ -38,29 +38,6 @@ Stack frame #04  pc 0049664c  /data/data/com.cocos2dx.teset/lib/libgame.so (coco
 --------------------------------
 
 //chmod改读写 777 ./make.sh    sudo权限 ./make.sh man查询
-小芮 0929
-晓宁198909
-
-FoxEmail
-jianfeng.huang@chinarichinc.com
-Fuck011185
-
-微信支付
-ios@uquku.com  zykj2016
-微信开放分享平台
-ios@uquku.com  Ls2016
-最新
-pingtai@chinarichinc.com 
-Ls2016
-
-
-友盟
-462290491@qq.com  ZYKJ2016 错的
-
-google play
-https://play.google.com/apps/publish/?dev_acc=00898879876467471031#AppListPlace
-lizhishun910724@gmail.com
-Zykj1234
 
 
 
